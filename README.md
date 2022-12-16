@@ -1,2 +1,1 @@
-# To-Do-List
-To-do list created with html-css-js
+<img src="/To-Do-List/TODO_List.jpg" alt="to-do-list"/>
